@@ -1,5 +1,8 @@
 # AIPIM Front-end boilerplate
 
+## FSD
+ - [FSD](./docs/FSD.md)
+
 ## src 내부 폴더 구조
 
 ```
