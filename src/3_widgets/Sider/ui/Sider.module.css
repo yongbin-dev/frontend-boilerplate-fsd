@@ -1,0 +1,15 @@
+.menu {
+  position: fixed;
+  transition: all 0.23s;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.logoImg {
+  width: 80%;
+  height: 65px;
+}
